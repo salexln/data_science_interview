@@ -1,2 +1,5 @@
-# data_science_interview
-Things to learn for a DS interview
+# Data science interview
+These are 101 things to know for a Data Science interview 
+
+
+
